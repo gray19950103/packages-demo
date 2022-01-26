@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/gray19950103/packages-demo#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@gray19950103"
+    "@gray19950103/registry": "https://npm.pkg.github.com"
   }
 }
